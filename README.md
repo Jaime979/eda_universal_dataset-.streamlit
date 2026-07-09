@@ -1,5 +1,7 @@
 # EDA Universal con Streamlit
 
+Elaborado por: Jaime Sesén
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-EDA-FF4B4B?logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)
